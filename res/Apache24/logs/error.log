@@ -73,3 +73,14 @@ AH00558: httpd.exe: Could not reliably determine the server's fully qualified do
 [Wed Jun 22 04:20:09.887592 2022] [mpm_winnt:notice] [pid 11072:tid 408] AH00354: Child: Starting 64 worker threads.
 [Wed Jun 22 04:20:15.328337 2022] [php:error] [pid 11072:tid 1280] [client 127.0.0.1:57913] script 'C:/PHPSimpleIDE/php/index.php' not found or unable to stat
 [Wed Jun 22 04:49:50.310214 2022] [php:error] [pid 11072:tid 1268] [client ::1:59110] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\\PHPSimpleIDE\\php\\ifteste.php on line 9
+[Wed Jun 22 07:27:38.885635 2022] [mpm_winnt:notice] [pid 17192:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jun 22 07:27:40.904864 2022] [mpm_winnt:notice] [pid 11072:tid 408] AH00364: Child: All worker threads have exited.
+[Wed Jun 22 07:27:41.019895 2022] [mpm_winnt:notice] [pid 17192:tid 400] AH00430: Parent: Child process 11072 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::155c:f77d:6f1f:7560. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 22 07:28:01.780683 2022] [mpm_winnt:notice] [pid 18792:tid 392] AH00455: Apache/2.4.54 (Win64) PHP/8.1.1 configured -- resuming normal operations
+[Wed Jun 22 07:28:01.780683 2022] [mpm_winnt:notice] [pid 18792:tid 392] AH00456: Apache Lounge VS16 Server built: Jun  5 2022 10:18:11
+[Wed Jun 22 07:28:01.780683 2022] [core:notice] [pid 18792:tid 392] AH00094: Command line: 'C:\\PHPSimpleIDE\\res\\Apache24\\bin\\httpd.exe -d C:/PHPSimpleIDE/res/Apache24'
+[Wed Jun 22 07:28:01.815899 2022] [mpm_winnt:notice] [pid 18792:tid 392] AH00418: Parent: Created child process 16608
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::155c:f77d:6f1f:7560. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::155c:f77d:6f1f:7560. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 22 07:28:02.383879 2022] [mpm_winnt:notice] [pid 16608:tid 424] AH00354: Child: Starting 64 worker threads.
