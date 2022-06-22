@@ -59,6 +59,12 @@ Passo 5: Por fim, basta iniciar o seu projeto clicando no botão abaixo da aplic
 <img src="https://user-images.githubusercontent.com/58988379/175023720-9a285064-4f5c-480e-a95f-eb22fab140db.png">
 
 <br>
+
+> Rodando: Com o código feito e pronto para ser executado basta clicar no menu File > Run.
+
+<img src="https://user-images.githubusercontent.com/58988379/175030186-71aeeadb-88cb-4c5d-bd07-49c5d7fc909e.png">
+
+<br>
 <br>
 
 # Miscellaneous
@@ -70,6 +76,5 @@ DESENVOLVIDO POR: Victor Beserra
 DISCORD: pegasus#7123
 
 CONTATO VIA E-MAIL: mxd46934@gmail.com
-
 
 
