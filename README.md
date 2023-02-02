@@ -15,6 +15,15 @@ Segue abaixo a instalação e apresentação do sistema.
 <br>
 <br>
 
+# REQUISITOS
+
+- Windows 10 x64
+- Microsoft Visual C++ 2019 x86 Redistributable ou Microsoft Visual C++ 2019 x64 Redistributable
+* Caso seu sistema operacional seja de x64, instale ambos x86 e x64.
+
+<br>
+<br>
+
 <h1>Instalação</h1>
 
 Passo 1: Fazer o download e iniciar o instalador.
